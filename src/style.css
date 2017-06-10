@@ -1,0 +1,23 @@
+#container {
+        width: 300px;
+        margin: auto;
+        margin-top: 10px;
+    }
+
+#title {
+	color: purple;
+	width: 300px;
+	text-align: center;
+	margin-bottom: 0px;
+	}
+
+.a-style {
+	color: purple;
+	text-decoration: none;
+}
+
+.hidden { display:none; }
+
+.clearBoth{
+	clear: both;
+}
